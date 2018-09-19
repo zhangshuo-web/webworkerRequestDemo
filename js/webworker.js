@@ -5,7 +5,7 @@ onmessage = function(e) {
         var i = 0;
         setInterval(()=> {
             console.log(i++);
-            fetch('https://way.jd.com/jisuapi/channel?appkey=1e58cd8eefb3ed489f9f3ddc00ad5486')
+            fetch('https://way.jd.com/jisuapi/channel?appkey=look waht look')
                 .then(response => {
                     return response.json()
                 })
