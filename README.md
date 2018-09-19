@@ -1,0 +1,2 @@
+# webworkerRequestDemo
+使用webworker处理前端轮询请求的简易案例
